@@ -1,4 +1,4 @@
-#odin-recipes
+# odin-recipes
 This is my first project from the foundations part of The Odin Project
 I aim to create a webpage that lists links to different recipes 
 In its current form, this will be purely made from HTML 
